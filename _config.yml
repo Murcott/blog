@@ -4,8 +4,6 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my blog.
   
-  Take 8.
-  
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://github.com/Murcott" # the base hostname & protocol for your site, e.g. http://example.com
 # social links
