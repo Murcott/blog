@@ -17,4 +17,8 @@ Yet, because of the ambiguousness of the chief manager of the imperial kitchen, 
 
 Hair-raisingly hilarious, the crazy lady chef decisively battles the imperial palace with the powerful beauty of the kitchen-blind. She challenges the imperial kitchen with pots, bowls, ladles, baisins; battling to the summit.
 
+> *Author's note:*
+
+An old composition from very, very long ago. The writing technique is somewhat soft and immature. Before saving the new manuscripts, I'm first releasing this work. Everyone can just take a look at this as they wish, it'll be alright as long as you're happy. Thank you! (There are bugs in the manuscript, everyone can just think of it as an amusing little story. Don't take it too seriously. Thanks and gratitude for all the support from the past up until now~)
+
 *Translated by: Murcott*
