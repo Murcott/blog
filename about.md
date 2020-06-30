@@ -1,6 +1,6 @@
 ### About
 
-** Anecdotes of a Lady Chef **
+**Anecdotes of a Lady Chef**
 
 *By: 我是苏素*
 
