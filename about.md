@@ -3,29 +3,8 @@ layout: page
 title: about
 permalink: /about/
 ---
+About the Author:  
+  
+   > 苏素，我是清都山水郎，天生懒慢带疏狂。　典型八零代，出生于韦小宝的故乡人文扬州。　个性豁达，性格开朗，有点懒散，有点随性，喜欢和朋友一起高谈阔论，可以为朋友两肋插刀，偶尔悲秋伤月，被人斥之——很傻很天真。　喜欢睡觉，爬山，看电影，闲暇时最好品尝美食，所谓美食在口，万事皆休　喜欢看探险悬疑类小说，更喜看推理类恐怖小说　个人的生活信条：快意人生，得过且过。  
 
-Anecdotes of a Lady Chef
-
-*By: 我是苏素*
-
-Synopsis: 
-
-"Anecdotes of a Lady Chef" is the honest tale of a crazy lady chef and reserved imperial chef, a crafty prince and idiot girl. The Lin family's daughter, Wuniao,  time traveled into the internal strife to become the champion of chefs just as she was cooking some noodles. She then made noodles with the brilliant prince and imperial chef.
-
-Lin Wu Niao was blind in the kitchen and had no ambition. Despite being born to a noble family of chefs, neither her legs nor her arms were diligent in practicing. Rather, too lazy to practice cooking, she was only skilled in the art of cooking instant noodles.
-
-By chance, because she was cooking instant noodles, the pressure cooker exploded and she was blasted into a country that did not exist in history - the Jin Dynasty. There, Lin Wu Niao transformed with a single shake, becoming the recommended chef of the imperial kitchen's first chief manager, the imperial Lin kitchen.
-
-Without even the slightest bit of culinary talent, Lin Wu Niao had no choice but to toughen up and participate in the selection for the imperial kitchen. Relying on five packs of instant noodles and a stick of Maybelline lipstick, she smoothly got chosen.
-
-After entering the emperor's palace, handsome men and beautiful cuisine became the modern-day Lin Wu Niao's romantic undertaking, a double harvest. Not only did she harvest the love of the mensao kitchen chief, she also obtained the title of the first in the palace hall's imperial chefs.
-
-Yet, because of the ambiguousness of the chief manager of the imperial kitchen, Miao Man Xi, she was drawn into an inner court rebellion. On one side, a beautiful man. On the other, a beautiful career. At the end of the day, which one should she conquer?
-
-Hair-raisingly hilarious, the crazy lady chef decisively battles the imperial palace with the powerful beauty of the kitchen-blind. She challenges the imperial kitchen with pots, bowls, ladles, baisins; battling to the summit.
-
-> *Author's note:* 
-
-An old composition from very, very long ago. The writing technique is somewhat soft and immature. Before saving the new manuscripts, I'm first releasing this work. Everyone can just take a look at this as they wish, it'll be alright as long as you're happy. Thank you! *There are bugs in the manuscript, everyone can just think of it as an amusing little story. Don't take it too seriously. Thanks and gratitude for all the support from the past up until now~*
-
-Translated by: Murcott
+Translation of [*厨娘囧事*](https://baike.baidu.com/item/%E5%8E%A8%E5%A8%98%E5%9B%A7%E4%BA%8B) by [我是苏素](http://blog.sina.com.cn/xuqiangda), with permission of the author, by Murcott.
