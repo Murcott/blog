@@ -15,10 +15,10 @@ header_pages:
   - synopsis.md
   - about.md
 
-#collections:
-#  pages:
-#    output: true
-#    permalink: /_pages/:title/
+collections:
+  alc:
+    output: true
+    permalink: /alc/:title/
 
 # Include directories/files
 # include: ['_pages']
