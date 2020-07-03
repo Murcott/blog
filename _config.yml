@@ -1,4 +1,4 @@
-theme: minima
+#theme: minima
 title: anecdotes of a lady chef
 author: murcott
 email: your-email@domain.com
@@ -15,10 +15,30 @@ header_pages:
   - synopsis.md
   - about.md
 
-paginate: 5
-paginate_path: /blog/page/:num/
+#collections:
+#  pages:
+#    output: true
+#    permalink: /_pages/:title/
 
-plugins:
-  - jekyll-paginate
+# Include directories/files
+# include: ['_pages']
+include: 
+ - _pages
 
-#show_excerpts: false # set to false to remove excerpts on the homepage
+#paginate: 5
+#paginate_path: /blog/page:num/
+#plugins:
+#  - jekyll-paginate
+#show_excerpts: true # set to false to remove excerpts on the homepage
+
+#exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

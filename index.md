@@ -1,38 +1,29 @@
 ---
-layout: page
+layout: default
 title: home
+permalink: /
 ---
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-{% endfor %}
+[Part 1](/blog/_pages/1_1)
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
+[Part 2](/blog/_pages/1_2)
 
-[Part 1](pages/1_1.md)
+{{ pages.url }}
 
-[Part 2](pages/1_2.md)
+
+<!-- Table of Contents -->
+<ul>
+    {% for pages in site.pages %}
+      {% if pages.category == "pages" %}
+        <li><a href="{{ pages.url }}">{{ pages.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<ul>
+    {% for pages in site.pages %}
+      {% if pages.category == "alc" %}
+        <li><a href="{{ pages.url }}">{{ pages.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
